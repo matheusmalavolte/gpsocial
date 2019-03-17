@@ -115,7 +115,7 @@
 
       <script>
         $(document).ready(function(){
-          // Formulário submit
+          // Formulário
           $('#cadastro').on('submit', function (){
             $nome = $('#nome').val();
             $email = $('#email').val();
