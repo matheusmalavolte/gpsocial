@@ -1,0 +1,33 @@
+html,body{
+	font-family: sans-serif;
+	background:#e6e6e6;
+	background-image: url(../img/bg.login.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+	width: 500px;
+	padding: 40px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: #00497ab5;
+	text-align: center;
+	border-radius: 40px;
+}
+.box h3 {
+	color: white;
+	font-size:40px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.box p {
+	color: white;
+	font-size: 15, 5px;
+	font-family: Arial, Helvetica, sans-serif;
+}

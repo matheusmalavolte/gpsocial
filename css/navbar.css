@@ -1,0 +1,25 @@
+a:hover{
+	text-decoration: none !important;
+	color: #FFF !important;
+}
+
+.bg-dark{
+	background-image: linear-gradient(#00477b, #02756b)!important;
+}
+
+.navbar-brand{
+	color: #FFF !important;
+	font-weight: 600;
+}
+
+
+.fonte_branca{
+	color: #FFF;
+	display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-left: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
